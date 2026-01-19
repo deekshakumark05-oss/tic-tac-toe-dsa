@@ -60,6 +60,7 @@ tic-tac-toe-dsa
 ---
 
 ## Developed By
-Deeksha Kumar  
+Deeksha K
 MCA (Networking Specialization)  
 Skills: Cyber Security, Cloud Essentials, Blockchain  
+
